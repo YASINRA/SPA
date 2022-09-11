@@ -1,0 +1,11 @@
+@media screen and (min-width:769px) {
+    .header-modal {
+        width: 40%;
+    }
+    #header {
+        height: 6rem;
+    }
+    .project-name {
+        font-size: 2.25rem;
+    }
+}

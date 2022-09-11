@@ -1,0 +1,17 @@
+@media screen and (min-width: 500px) {
+    .modal {
+        display: none;
+    }
+    .show-modal{
+        display: none !important;
+    }
+    .header-modal {
+        display: flex !important;
+    width: 60%;
+    justify-content: space-evenly;
+    }
+    .btn {
+        width: 30%;
+        font-size: 1.65rem;
+    }
+}

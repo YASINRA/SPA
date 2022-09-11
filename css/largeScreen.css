@@ -1,0 +1,8 @@
+@media screen and (min-width:993px) { 
+    .header-modal {
+        width: 50%;
+    }
+    #header {
+        width: 65%;
+    }
+}
